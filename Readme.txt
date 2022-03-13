@@ -4,4 +4,7 @@ We are given a scan of the shell of a cylindrical vessel, on which there are poi
 of indication of sources of such a method of non-destructive testing as acoustic emission. 
 Groups of points are visible in the figure, which, most likely, belong to the same defect.
 
+This file 'loc_new3.txt' contains the coordinates of the indication points after acoustic emission.
+
+
 link about DBSCAN: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
