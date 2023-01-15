@@ -33,7 +33,7 @@ fig.set_figheight(10)
 
 X_principal = df1
 
-db = DBSCAN(eps = 90, min_samples = 125).fit(X_principal)
+db = DBSCAN(eps = 75, min_samples = 40).fit(X_principal)
 
 labels1 = db.labels_
 
